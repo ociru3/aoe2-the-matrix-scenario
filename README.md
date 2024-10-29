@@ -1,11 +1,10 @@
-# aoe2-the-matrix-scenario
-Este projeto traz um cenário personalizado para Age of Empires II: Definitive Edition inspirado no universo do filme Matrix. Combinando os elementos de estratégia do jogo com a ação e atmosfera sombria de Matrix, este cenário oferece uma experiência única para os fãs do jogo e do filme. Jogadores podem explorar ambientes que simulam a estética urbana e distópica de Matrix, enfrentar desafios adaptados ao mundo simulado e vivenciar cenas inspiradas em batalhas icônicas contra agentes e inimigos do sistema.
+This project introduces a custom scenario for *Age of Empires II: Definitive Edition*, inspired by the universe of *The Matrix* movie. By combining the strategic elements of the game with the action and dark atmosphere of *The Matrix*, this scenario offers a unique experience for fans of both the game and the film. Players can explore environments that simulate the urban, dystopian aesthetic of *The Matrix*, face challenges adapted to the simulated world, and experience scenes inspired by iconic battles against agents and system adversaries.
 
-Objetivo é criar uma simulação envolvente que homenageie o filme Matrix através do motor de jogo do Age of Empires II. Este cenário personalizado foi projetado para oferecer tanto uma narrativa visualmente rica quanto um desafio estratégico para jogadores de AoE2, utilizando as mecânicas familiares do jogo para recriar a sensação de imersão no universo de Matrix.
+The objective is to create an immersive simulation that pays homage to *The Matrix* through the *Age of Empires II* game engine. This custom scenario is designed to provide both a visually rich narrative and a strategic challenge for AoE2 players, using familiar game mechanics to recreate the immersive feel of *The Matrix* universe.
 
-Características do Cenário:
+**Scenario Features:**
 
-Design Inspirado em Matrix: Ambientes e construções que remetem à arquitetura urbana e sombria do filme.
-Personagens Icônicos: Representações de personagens como "Neo", "Trinity" e os agentes do sistema em missões e objetivos específicos.
-Missões Dinâmicas: Desafios progressivos, como sobrevivência inicial, resgate de prisioneiros e batalhas contra os agentes.
-Jogabilidade Personalizada: Elementos únicos de jogo e eventos que simulam a ação e o suspense característicos de Matrix.
+- **Matrix-Inspired Design:** Environments and structures that recall the urban, dark architecture of the film.
+- **Iconic Characters:** Representations of characters like "Neo," "Trinity," and system agents in specific missions and objectives.
+- **Dynamic Missions:** Progressive challenges, such as initial survival, prisoner rescues, and battles against agents.
+- **Custom Gameplay:** Unique game elements and events that simulate the action and suspense characteristic of *The Matrix*.
